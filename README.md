@@ -39,7 +39,7 @@ Para executar o projeto localmente, siga os seguintes passos:
 1. **Clone este repositório**:
 
    ```bash
-   git clone https://github.com/Parzival-iz/cadastro-devclub-usuario.git
+   git clone https://github.com/Parzival-iz/9-Cadastro-de-Usuario-DevClub.git
    ```
 
 2. **Navegue até o diretório do projeto**:
